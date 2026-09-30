@@ -1,0 +1,2914 @@
+{
+  "units": [
+    {
+      "id": "favourite-toys",
+      "emoji": "🧸",
+      "title": "Favourite Toys",
+      "titleZh": "我最爱的玩具",
+      "words": [
+        {
+          "en": "toy car",
+          "zh": "玩具车",
+          "emoji": "🚗",
+          "phonetic": "/tɔɪ kɑː/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "toy",
+              "pron": "/tɔɪ/",
+              "related": [
+                {
+                  "word": "boy",
+                  "emoji": "👦",
+                  "zh": "男孩",
+                  "highlight": "oy"
+                },
+                {
+                  "word": "enjoy",
+                  "emoji": "😄",
+                  "zh": "享受",
+                  "highlight": "oy"
+                }
+              ]
+            },
+            {
+              "text": "car",
+              "pron": "/kɑː/",
+              "related": [
+                {
+                  "word": "card",
+                  "emoji": "🃏",
+                  "zh": "卡片",
+                  "highlight": "car"
+                },
+                {
+                  "word": "cart",
+                  "emoji": "🛒",
+                  "zh": "购物车",
+                  "highlight": "car"
+                }
+              ]
+            }
+          ],
+          "tips": "toy 是玩具，car 是车，两个词合在一起就是玩具车",
+          "example": {
+            "en": "My favourite toy is a toy car.",
+            "zh": "我最喜欢的玩具是玩具车。"
+          }
+        },
+        {
+          "en": "ball",
+          "zh": "球",
+          "emoji": "⚽",
+          "phonetic": "/bɔːl/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ball",
+              "pron": "/bɔːl/",
+              "related": [
+                {
+                  "word": "tall",
+                  "emoji": "🪑",
+                  "zh": "高的",
+                  "highlight": "all"
+                },
+                {
+                  "word": "small",
+                  "emoji": "🐜",
+                  "zh": "小的",
+                  "highlight": "all"
+                },
+                {
+                  "word": "wall",
+                  "emoji": "🧱",
+                  "zh": "墙",
+                  "highlight": "all"
+                }
+              ]
+            }
+          ],
+          "tips": "注意 -all 发 /ɔːl/，和 tall、small、wall 的尾音一样",
+          "example": {
+            "en": "I can catch the ball.",
+            "zh": "我能接住球。"
+          }
+        },
+        {
+          "en": "doll",
+          "zh": "洋娃娃",
+          "emoji": "🪆",
+          "phonetic": "/dɒl/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "doll",
+              "pron": "/dɒl/",
+              "related": [
+                {
+                  "word": "dog",
+                  "emoji": "🐶",
+                  "zh": "狗",
+                  "highlight": "d"
+                },
+                {
+                  "word": "door",
+                  "emoji": "🚪",
+                  "zh": "门",
+                  "highlight": "d"
+                }
+              ]
+            }
+          ],
+          "tips": "doll 以 d 开头，和 dog、door 开头一样",
+          "example": {
+            "en": "She has a beautiful doll.",
+            "zh": "她有一个漂亮的洋娃娃。"
+          }
+        },
+        {
+          "en": "robot",
+          "zh": "机器人",
+          "emoji": "🤖",
+          "phonetic": "/ˈrəʊbɒt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ro",
+              "pron": "/rəʊ/",
+              "related": [
+                {
+                  "word": "rose",
+                  "emoji": "🌹",
+                  "zh": "玫瑰",
+                  "highlight": "ro"
+                },
+                {
+                  "word": "road",
+                  "emoji": "🛣️",
+                  "zh": "道路",
+                  "highlight": "ro"
+                }
+              ]
+            },
+            {
+              "text": "bot",
+              "pron": "/bɒt/",
+              "related": [
+                {
+                  "word": "bottom",
+                  "emoji": "⬇️",
+                  "zh": "底部",
+                  "highlight": "bot"
+                }
+              ]
+            }
+          ],
+          "tips": "ro-bot 两个音节，重音在第一个音节 ro",
+          "example": {
+            "en": "The robot can walk and talk.",
+            "zh": "机器人会走路和说话。"
+          }
+        },
+        {
+          "en": "alien",
+          "zh": "外星人玩具",
+          "emoji": "👾",
+          "phonetic": "/ˈeɪliən/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "a",
+              "pron": "/eɪ/",
+              "related": [
+                {
+                  "word": "april",
+                  "emoji": "🌸",
+                  "zh": "四月",
+                  "highlight": "a"
+                },
+                {
+                  "word": "able",
+                  "emoji": "💪",
+                  "zh": "能干的",
+                  "highlight": "a"
+                }
+              ]
+            },
+            {
+              "text": "li",
+              "pron": "/li/",
+              "related": [
+                {
+                  "word": "lizard",
+                  "emoji": "🦎",
+                  "zh": "蜥蜴",
+                  "highlight": "li"
+                },
+                {
+                  "word": "listen",
+                  "emoji": "👂",
+                  "zh": "听",
+                  "highlight": "li"
+                }
+              ]
+            },
+            {
+              "text": "en",
+              "pron": "/ən/",
+              "related": [
+                {
+                  "word": "kitchen",
+                  "emoji": "🍳",
+                  "zh": "厨房",
+                  "highlight": "en"
+                },
+                {
+                  "word": "garden",
+                  "emoji": "🌻",
+                  "zh": "花园",
+                  "highlight": "en"
+                }
+              ]
+            }
+          ],
+          "tips": "a-li-en 三个音节，重音在第一个音节",
+          "example": {
+            "en": "The alien has big eyes.",
+            "zh": "外星人有大大的眼睛。"
+          }
+        },
+        {
+          "en": "teddy bear",
+          "zh": "泰迪熊",
+          "emoji": "🧸",
+          "phonetic": "/ˈtedi beə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ted",
+              "pron": "/ted/",
+              "related": [
+                {
+                  "word": "ten",
+                  "emoji": "🔟",
+                  "zh": "十",
+                  "highlight": "te"
+                },
+                {
+                  "word": "tell",
+                  "emoji": "🗣️",
+                  "zh": "告诉",
+                  "highlight": "te"
+                }
+              ]
+            },
+            {
+              "text": "dy",
+              "pron": "/di/",
+              "related": [
+                {
+                  "word": "candy",
+                  "emoji": "🍬",
+                  "zh": "糖果",
+                  "highlight": "dy"
+                },
+                {
+                  "word": "body",
+                  "emoji": "🏃",
+                  "zh": "身体",
+                  "highlight": "dy"
+                }
+              ]
+            },
+            {
+              "text": "bear",
+              "pron": "/beə/",
+              "related": [
+                {
+                  "word": "pear",
+                  "emoji": "🍐",
+                  "zh": "梨",
+                  "highlight": "ear"
+                },
+                {
+                  "word": "wear",
+                  "emoji": "👕",
+                  "zh": "穿",
+                  "highlight": "ear"
+                }
+              ]
+            }
+          ],
+          "tips": "ted-dy bear 三个音节，bear 和 pear、wear 发音相同",
+          "example": {
+            "en": "My favourite toy is my teddy bear.",
+            "zh": "我最喜欢的玩具是我的泰迪熊。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "What's your favourite toy?",
+          "zh": "你最喜欢的玩具是什么？favourite = 最喜欢的，用来询问偏好",
+          "examples": [
+            {
+              "text": "What's your favourite toy?",
+              "tr": "你最喜欢的玩具是什么？"
+            },
+            {
+              "text": "My favourite toy is a robot.",
+              "tr": "我最喜欢的玩具是机器人。"
+            },
+            {
+              "text": "My favourite toy is my teddy bear.",
+              "tr": "我最喜欢的玩具是我的泰迪熊。"
+            },
+            {
+              "text": "My favourite toy is a doll.",
+              "tr": "我最喜欢的玩具是洋娃娃。"
+            }
+          ]
+        },
+        {
+          "rule": "My favourite toy is...",
+          "zh": "我最喜欢的玩具是……回答用 My favourite toy is + a/an + 名词",
+          "examples": [
+            {
+              "text": "My favourite toy is a toy car.",
+              "tr": "我最喜欢的玩具是玩具车。"
+            },
+            {
+              "text": "My favourite toy is an alien.",
+              "tr": "我最喜欢的玩具是外星人玩具。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "What's",
+            "your",
+            "favourite",
+            "toy",
+            "?"
+          ],
+          "answer": "What's your favourite toy ?"
+        },
+        {
+          "words": [
+            "My",
+            "favourite",
+            "toy",
+            "is",
+            "a",
+            "robot",
+            "."
+          ],
+          "answer": "My favourite toy is a robot ."
+        },
+        {
+          "words": [
+            "My",
+            "favourite",
+            "toy",
+            "is",
+            "a",
+            "teddy",
+            "bear",
+            "."
+          ],
+          "answer": "My favourite toy is a teddy bear ."
+        },
+        {
+          "words": [
+            "My",
+            "favourite",
+            "toy",
+            "is",
+            "a",
+            "ball",
+            "."
+          ],
+          "answer": "My favourite toy is a ball ."
+        }
+      ]
+    },
+    {
+      "id": "my-pet",
+      "emoji": "🐾",
+      "title": "My Pet",
+      "titleZh": "我的宠物",
+      "words": [
+        {
+          "en": "bird",
+          "zh": "鸟",
+          "emoji": "🐦",
+          "phonetic": "/bɜːd/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "bird",
+              "pron": "/bɜːd/",
+              "related": [
+                {
+                  "word": "girl",
+                  "emoji": "👧",
+                  "zh": "女孩",
+                  "highlight": "ir"
+                },
+                {
+                  "word": "shirt",
+                  "emoji": "👔",
+                  "zh": "衬衫",
+                  "highlight": "ir"
+                },
+                {
+                  "word": "skirt",
+                  "emoji": "👗",
+                  "zh": "裙子",
+                  "highlight": "ir"
+                }
+              ]
+            }
+          ],
+          "tips": "ir 组合发 /ɜː/，girl、shirt、skirt 也是 ir 发同样的音",
+          "example": {
+            "en": "The bird can sing.",
+            "zh": "鸟会唱歌。"
+          }
+        },
+        {
+          "en": "dog",
+          "zh": "狗",
+          "emoji": "🐶",
+          "phonetic": "/dɒɡ/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "dog",
+              "pron": "/dɒɡ/",
+              "related": [
+                {
+                  "word": "doll",
+                  "emoji": "🪆",
+                  "zh": "洋娃娃",
+                  "highlight": "d"
+                },
+                {
+                  "word": "door",
+                  "emoji": "🚪",
+                  "zh": "门",
+                  "highlight": "d"
+                }
+              ]
+            }
+          ],
+          "tips": "dog 是最常见的宠物之一，小狗叫 puppy",
+          "example": {
+            "en": "I've got a dog.",
+            "zh": "我有一只狗。"
+          }
+        },
+        {
+          "en": "cat",
+          "zh": "猫",
+          "emoji": "🐱",
+          "phonetic": "/kæt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "cat",
+              "pron": "/kæt/",
+              "related": [
+                {
+                  "word": "cap",
+                  "emoji": "🧢",
+                  "zh": "帽子",
+                  "highlight": "ca"
+                },
+                {
+                  "word": "car",
+                  "emoji": "🚗",
+                  "zh": "汽车",
+                  "highlight": "ca"
+                }
+              ]
+            }
+          ],
+          "tips": "cat 以 c 开头发 /k/，和 cap、car 一样",
+          "example": {
+            "en": "I've got a cat.",
+            "zh": "我有一只猫。"
+          }
+        },
+        {
+          "en": "fish",
+          "zh": "鱼",
+          "emoji": "🐟",
+          "phonetic": "/fɪʃ/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "fish",
+              "pron": "/fɪʃ/",
+              "related": [
+                {
+                  "word": "ship",
+                  "emoji": "🚢",
+                  "zh": "船",
+                  "highlight": "sh"
+                },
+                {
+                  "word": "shop",
+                  "emoji": "🏪",
+                  "zh": "商店",
+                  "highlight": "sh"
+                },
+                {
+                  "word": "shoe",
+                  "emoji": "👟",
+                  "zh": "鞋子",
+                  "highlight": "sh"
+                }
+              ]
+            }
+          ],
+          "tips": "sh 发 /ʃ/，和 ship、shop、shoe 开头一样",
+          "example": {
+            "en": "I've got a fish.",
+            "zh": "我有一条鱼。"
+          }
+        },
+        {
+          "en": "spider",
+          "zh": "蜘蛛",
+          "emoji": "🕷️",
+          "phonetic": "/ˈspaɪdə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "spi",
+              "pron": "/spaɪ/",
+              "related": [
+                {
+                  "word": "spin",
+                  "emoji": "🔄",
+                  "zh": "旋转",
+                  "highlight": "spi"
+                },
+                {
+                  "word": "spoon",
+                  "emoji": "🥄",
+                  "zh": "勺子",
+                  "highlight": "sp"
+                }
+              ]
+            },
+            {
+              "text": "der",
+              "pron": "/də/",
+              "related": [
+                {
+                  "word": "lizard",
+                  "emoji": "🦎",
+                  "zh": "蜥蜴",
+                  "highlight": "der"
+                },
+                {
+                  "word": "under",
+                  "emoji": "⬇️",
+                  "zh": "在下面",
+                  "highlight": "der"
+                }
+              ]
+            }
+          ],
+          "tips": "spi-der 两个音节，重音在第一个音节",
+          "example": {
+            "en": "Have you got a spider?",
+            "zh": "你有蜘蛛吗？"
+          }
+        },
+        {
+          "en": "lizard",
+          "zh": "蜥蜴",
+          "emoji": "🦎",
+          "phonetic": "/ˈlɪzəd/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "li",
+              "pron": "/lɪ/",
+              "related": [
+                {
+                  "word": "listen",
+                  "emoji": "👂",
+                  "zh": "听",
+                  "highlight": "li"
+                },
+                {
+                  "word": "litter",
+                  "emoji": "🗑️",
+                  "zh": "垃圾",
+                  "highlight": "li"
+                }
+              ]
+            },
+            {
+              "text": "zard",
+              "pron": "/zəd/",
+              "related": [
+                {
+                  "word": "wizard",
+                  "emoji": "🧙",
+                  "zh": "巫师",
+                  "highlight": "zard"
+                }
+              ]
+            }
+          ],
+          "tips": "li-zard 两个音节，注意 z 发 /z/ 不是 /s/",
+          "example": {
+            "en": "Have you got a lizard?",
+            "zh": "你有蜥蜴吗？"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "I've got a...",
+          "zh": "我有一只……have got = have，表示「拥有」",
+          "examples": [
+            {
+              "text": "I've got a dog.",
+              "tr": "我有一只狗。"
+            },
+            {
+              "text": "I've got a cat.",
+              "tr": "我有一只猫。"
+            },
+            {
+              "text": "I've got a fish.",
+              "tr": "我有一条鱼。"
+            },
+            {
+              "text": "I've got a bird.",
+              "tr": "我有一只鸟。"
+            }
+          ]
+        },
+        {
+          "rule": "Have you got a...?",
+          "zh": "你有一只……吗？把 have 提到句首构成疑问句",
+          "examples": [
+            {
+              "text": "Have you got a dog?",
+              "tr": "你有一只狗吗？"
+            },
+            {
+              "text": "Yes, I have.",
+              "tr": "是的，我有。"
+            },
+            {
+              "text": "No, I haven't.",
+              "tr": "不，我没有。"
+            },
+            {
+              "text": "Have you got a spider?",
+              "tr": "你有蜘蛛吗？"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "I've",
+            "got",
+            "a",
+            "dog",
+            "."
+          ],
+          "answer": "I've got a dog ."
+        },
+        {
+          "words": [
+            "I've",
+            "got",
+            "a",
+            "cat",
+            "."
+          ],
+          "answer": "I've got a cat ."
+        },
+        {
+          "words": [
+            "Have",
+            "you",
+            "got",
+            "a",
+            "fish",
+            "?"
+          ],
+          "answer": "Have you got a fish ?"
+        },
+        {
+          "words": [
+            "Yes",
+            ",",
+            "I",
+            "have",
+            "."
+          ],
+          "answer": "Yes , I have ."
+        },
+        {
+          "words": [
+            "No",
+            ",",
+            "I",
+            "haven't",
+            "."
+          ],
+          "answer": "No , I haven't ."
+        },
+        {
+          "words": [
+            "Have",
+            "you",
+            "got",
+            "a",
+            "spider",
+            "?"
+          ],
+          "answer": "Have you got a spider ?"
+        }
+      ]
+    },
+    {
+      "id": "my-classroom",
+      "emoji": "🏫",
+      "title": "My Classroom",
+      "titleZh": "我的教室",
+      "words": [
+        {
+          "en": "desk",
+          "zh": "书桌",
+          "emoji": "🪑",
+          "phonetic": "/desk/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "desk",
+              "pron": "/desk/",
+              "related": [
+                {
+                  "word": "duck",
+                  "emoji": "🦆",
+                  "zh": "鸭子",
+                  "highlight": "d"
+                },
+                {
+                  "word": "red",
+                  "emoji": "🔴",
+                  "zh": "红色",
+                  "highlight": "e"
+                }
+              ]
+            }
+          ],
+          "tips": "desk 和 duck 开头都是 d，e 发短音 /e/",
+          "example": {
+            "en": "It's a desk.",
+            "zh": "这是一张书桌。"
+          }
+        },
+        {
+          "en": "chair",
+          "zh": "椅子",
+          "emoji": "💺",
+          "phonetic": "/tʃeə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "chair",
+              "pron": "/tʃeə/",
+              "related": [
+                {
+                  "word": "hair",
+                  "emoji": "💇",
+                  "zh": "头发",
+                  "highlight": "air"
+                },
+                {
+                  "word": "stair",
+                  "emoji": "🪜",
+                  "zh": "楼梯",
+                  "highlight": "air"
+                },
+                {
+                  "word": "pair",
+                  "emoji": "👫",
+                  "zh": "一对",
+                  "highlight": "air"
+                }
+              ]
+            }
+          ],
+          "tips": "chair 和 hair、stair 尾音一样，air 发 /eə/",
+          "example": {
+            "en": "It's a chair.",
+            "zh": "这是一把椅子。"
+          }
+        },
+        {
+          "en": "window",
+          "zh": "窗户",
+          "emoji": "🪟",
+          "phonetic": "/ˈwɪndəʊ/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "win",
+              "pron": "/wɪn/",
+              "related": [
+                {
+                  "word": "wind",
+                  "emoji": "💨",
+                  "zh": "风",
+                  "highlight": "win"
+                },
+                {
+                  "word": "winter",
+                  "emoji": "❄️",
+                  "zh": "冬天",
+                  "highlight": "win"
+                }
+              ]
+            },
+            {
+              "text": "dow",
+              "pron": "/dəʊ/",
+              "related": [
+                {
+                  "word": "yellow",
+                  "emoji": "💛",
+                  "zh": "黄色",
+                  "highlight": "ow"
+                }
+              ]
+            }
+          ],
+          "tips": "win-dow 两个音节，重音在第一个",
+          "example": {
+            "en": "What's that? It's a window.",
+            "zh": "那是什么？那是一扇窗户。"
+          }
+        },
+        {
+          "en": "door",
+          "zh": "门",
+          "emoji": "🚪",
+          "phonetic": "/dɔː/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "door",
+              "pron": "/dɔː/",
+              "related": [
+                {
+                  "word": "floor",
+                  "emoji": "🏠",
+                  "zh": "地板",
+                  "highlight": "oor"
+                },
+                {
+                  "word": "four",
+                  "emoji": "4️⃣",
+                  "zh": "四",
+                  "highlight": "ou"
+                }
+              ]
+            }
+          ],
+          "tips": "oor 发 /ɔː/，和 floor 一样",
+          "example": {
+            "en": "Is this a door? Yes, it is.",
+            "zh": "这是一扇门吗？是的。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "What's this/that?",
+          "zh": "这/那是什么？近处用 this，远处用 that",
+          "examples": [
+            {
+              "text": "What's this?",
+              "tr": "这是什么？"
+            },
+            {
+              "text": "What's that?",
+              "tr": "那是什么？"
+            },
+            {
+              "text": "It's a desk.",
+              "tr": "它是一张书桌。"
+            }
+          ]
+        },
+        {
+          "rule": "Is this/that...?",
+          "zh": "这/那是……吗？把 is 提前构成疑问句",
+          "examples": [
+            {
+              "text": "Is this a desk?",
+              "tr": "这是一张书桌吗？"
+            },
+            {
+              "text": "Yes, it is.",
+              "tr": "是的，它是。"
+            },
+            {
+              "text": "No, it isn't.",
+              "tr": "不，它不是。"
+            },
+            {
+              "text": "Is that a door?",
+              "tr": "那是一扇门吗？"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "What's",
+            "this",
+            "?"
+          ],
+          "answer": "What's this ?"
+        },
+        {
+          "words": [
+            "It's",
+            "a",
+            "desk",
+            "."
+          ],
+          "answer": "It's a desk ."
+        },
+        {
+          "words": [
+            "What's",
+            "that",
+            "?"
+          ],
+          "answer": "What's that ?"
+        },
+        {
+          "words": [
+            "It's",
+            "a",
+            "window",
+            "."
+          ],
+          "answer": "It's a window ."
+        },
+        {
+          "words": [
+            "Is",
+            "this",
+            "a",
+            "chair",
+            "?"
+          ],
+          "answer": "Is this a chair ?"
+        },
+        {
+          "words": [
+            "Yes",
+            ",",
+            "it",
+            "is",
+            "."
+          ],
+          "answer": "Yes , it is ."
+        },
+        {
+          "words": [
+            "No",
+            ",",
+            "it",
+            "isn't",
+            "."
+          ],
+          "answer": "No , it isn't ."
+        }
+      ]
+    },
+    {
+      "id": "my-family",
+      "emoji": "👨‍👩‍👧",
+      "title": "My Family",
+      "titleZh": "我的家人",
+      "group": "阶段一",
+      "words": [
+        {
+          "en": "mummy",
+          "zh": "妈妈",
+          "emoji": "👩",
+          "phonetic": "/ˈmʌmi/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "mum",
+              "pron": "/mʌm/"
+            },
+            {
+              "text": "my",
+              "pron": "/mi/"
+            }
+          ],
+          "tips": "mum-my 两个音节；英式英语里妈妈叫 mummy，美式叫 mommy",
+          "example": {
+            "en": "This is my mummy.",
+            "zh": "这是我的妈妈。"
+          }
+        },
+        {
+          "en": "daddy",
+          "zh": "爸爸",
+          "emoji": "👨",
+          "phonetic": "/ˈdædi/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "dad",
+              "pron": "/dæd/"
+            },
+            {
+              "text": "dy",
+              "pron": "/di/"
+            }
+          ],
+          "tips": "dad-dy 两个音节；daddy 也可以说 father",
+          "example": {
+            "en": "This is my daddy.",
+            "zh": "这是我的爸爸。"
+          }
+        },
+        {
+          "en": "sister",
+          "zh": "姐妹",
+          "emoji": "👧",
+          "phonetic": "/ˈsɪstə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "sis",
+              "pron": "/sɪs/"
+            },
+            {
+              "text": "ter",
+              "pron": "/tə/"
+            }
+          ],
+          "tips": "sis-ter 两个音节；英语里 sister 不分姐姐和妹妹",
+          "example": {
+            "en": "She is my sister.",
+            "zh": "她是我的姐妹。"
+          }
+        },
+        {
+          "en": "brother",
+          "zh": "兄弟",
+          "emoji": "👦",
+          "phonetic": "/ˈbrʌðə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "bro",
+              "pron": "/brʌ/"
+            },
+            {
+              "text": "ther",
+              "pron": "/ðə/"
+            }
+          ],
+          "tips": "bro-ther 两个音节；th 在这里发浊音 /ð/",
+          "example": {
+            "en": "He is my brother.",
+            "zh": "他是我的兄弟。"
+          }
+        },
+        {
+          "en": "grandma",
+          "zh": "奶奶；外婆",
+          "emoji": "👵",
+          "phonetic": "/ˈɡrænmɑː/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "grand",
+              "pron": "/ɡræn/"
+            },
+            {
+              "text": "ma",
+              "pron": "/mɑː/"
+            }
+          ],
+          "tips": "grand-ma 两个音节；grandma 和 grandpa 只差最后一个音",
+          "example": {
+            "en": "My grandma is nice.",
+            "zh": "我的奶奶很和蔼。"
+          }
+        },
+        {
+          "en": "grandpa",
+          "zh": "爷爷；外公",
+          "emoji": "👴",
+          "phonetic": "/ˈɡrænpɑː/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "grand",
+              "pron": "/ɡræn/"
+            },
+            {
+              "text": "pa",
+              "pron": "/pɑː/"
+            }
+          ],
+          "tips": "grand-pa 两个音节；和 grandma 对比着记",
+          "example": {
+            "en": "My grandpa is old.",
+            "zh": "我的爷爷年纪大了。"
+          }
+        },
+        {
+          "en": "baby",
+          "zh": "婴儿",
+          "emoji": "👶",
+          "phonetic": "/ˈbeɪbi/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ba",
+              "pron": "/beɪ/"
+            },
+            {
+              "text": "by",
+              "pron": "/bi/"
+            }
+          ],
+          "tips": "ba-by 两个音节，重音在第一个音节",
+          "example": {
+            "en": "The baby is sleeping.",
+            "zh": "宝宝在睡觉。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "This is my...",
+          "zh": "这是我的……用来介绍家人，my 后面直接跟称呼",
+          "examples": [
+            {
+              "text": "This is my mummy.",
+              "tr": "这是我的妈妈。"
+            },
+            {
+              "text": "This is my daddy.",
+              "tr": "这是我的爸爸。"
+            },
+            {
+              "text": "This is my sister.",
+              "tr": "这是我的姐妹。"
+            },
+            {
+              "text": "This is my brother.",
+              "tr": "这是我的兄弟。"
+            }
+          ]
+        },
+        {
+          "rule": "Who's this?",
+          "zh": "这是谁？Who's = Who is，用来询问人物身份",
+          "examples": [
+            {
+              "text": "Who's this?",
+              "tr": "这是谁？"
+            },
+            {
+              "text": "It's my grandma.",
+              "tr": "是我的奶奶。"
+            },
+            {
+              "text": "Who's that?",
+              "tr": "那是谁？"
+            },
+            {
+              "text": "It's my baby brother.",
+              "tr": "是我的小弟弟。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "This",
+            "is",
+            "my",
+            "mummy",
+            "."
+          ],
+          "answer": "This is my mummy ."
+        },
+        {
+          "words": [
+            "This",
+            "is",
+            "my",
+            "daddy",
+            "."
+          ],
+          "answer": "This is my daddy ."
+        },
+        {
+          "words": [
+            "Who's",
+            "this",
+            "?"
+          ],
+          "answer": "Who's this ?"
+        },
+        {
+          "words": [
+            "It's",
+            "my",
+            "grandma",
+            "."
+          ],
+          "answer": "It's my grandma ."
+        },
+        {
+          "words": [
+            "She",
+            "is",
+            "my",
+            "sister",
+            "."
+          ],
+          "answer": "She is my sister ."
+        },
+        {
+          "words": [
+            "He",
+            "is",
+            "my",
+            "brother",
+            "."
+          ],
+          "answer": "He is my brother ."
+        }
+      ]
+    },
+    {
+      "id": "my-face",
+      "emoji": "🧑",
+      "title": "My Face",
+      "titleZh": "我的脸",
+      "group": "阶段二",
+      "words": [
+        {
+          "en": "head",
+          "zh": "头",
+          "emoji": "🧠",
+          "phonetic": "/hed/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "head",
+              "pron": "/hed/"
+            }
+          ],
+          "tips": "head 里的 ea 在这里发短音 /e/，不要读成 /iː/",
+          "example": {
+            "en": "Touch your head.",
+            "zh": "摸摸你的头。"
+          }
+        },
+        {
+          "en": "eye",
+          "zh": "眼睛",
+          "emoji": "👁️",
+          "phonetic": "/aɪ/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "eye",
+              "pron": "/aɪ/"
+            }
+          ],
+          "tips": "eye 三个字母只发一个音 /aɪ/，e 和 e 都不发音",
+          "example": {
+            "en": "I have got two eyes.",
+            "zh": "我有两只眼睛。"
+          }
+        },
+        {
+          "en": "ear",
+          "zh": "耳朵",
+          "emoji": "👂",
+          "phonetic": "/ɪə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ear",
+              "pron": "/ɪə/"
+            }
+          ],
+          "tips": "ear 和 hear 押韵，ear 发 /ɪə/",
+          "example": {
+            "en": "Touch your ears.",
+            "zh": "摸摸你的耳朵。"
+          }
+        },
+        {
+          "en": "nose",
+          "zh": "鼻子",
+          "emoji": "👃",
+          "phonetic": "/nəʊz/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "nose",
+              "pron": "/nəʊz/"
+            }
+          ],
+          "tips": "nose 是 Magic E 的词，末尾的 e 不发音，o 发长音 /əʊ/",
+          "example": {
+            "en": "Touch your nose.",
+            "zh": "摸摸你的鼻子。"
+          }
+        },
+        {
+          "en": "mouth",
+          "zh": "嘴巴",
+          "emoji": "👄",
+          "phonetic": "/maʊθ/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "mouth",
+              "pron": "/maʊθ/"
+            }
+          ],
+          "tips": "mouth 结尾的 th 要咬舌尖发清音 /θ/",
+          "example": {
+            "en": "Open your mouth.",
+            "zh": "张开你的嘴巴。"
+          }
+        },
+        {
+          "en": "hand",
+          "zh": "手",
+          "emoji": "✋",
+          "phonetic": "/hænd/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "hand",
+              "pron": "/hænd/"
+            }
+          ],
+          "tips": "hand 里的 a 发短音 /æ/，和 cat 一样",
+          "example": {
+            "en": "Clap your hands.",
+            "zh": "拍拍你的手。"
+          }
+        },
+        {
+          "en": "foot",
+          "zh": "脚",
+          "emoji": "🦶",
+          "phonetic": "/fʊt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "foot",
+              "pron": "/fʊt/"
+            }
+          ],
+          "tips": "foot 的复数是不规则的 feet /fiːt/，不是 foots",
+          "example": {
+            "en": "Touch your foot.",
+            "zh": "摸摸你的脚。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "I've got two eyes.",
+          "zh": "我有两只眼睛。超过一个的时候，名词后面要加 -s 变复数",
+          "examples": [
+            {
+              "text": "I've got two eyes.",
+              "tr": "我有两只眼睛。"
+            },
+            {
+              "text": "I've got two ears.",
+              "tr": "我有两只耳朵。"
+            },
+            {
+              "text": "I've got one nose.",
+              "tr": "我有一个鼻子。"
+            },
+            {
+              "text": "I've got one mouth.",
+              "tr": "我有一张嘴巴。"
+            }
+          ]
+        },
+        {
+          "rule": "Touch your...",
+          "zh": "摸摸你的……祈使句，直接以动词开头，后面跟 your + 身体部位",
+          "examples": [
+            {
+              "text": "Touch your head.",
+              "tr": "摸摸你的头。"
+            },
+            {
+              "text": "Touch your nose.",
+              "tr": "摸摸你的鼻子。"
+            },
+            {
+              "text": "Touch your ears.",
+              "tr": "摸摸你的耳朵。"
+            },
+            {
+              "text": "Touch your foot.",
+              "tr": "摸摸你的脚。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "I've",
+            "got",
+            "two",
+            "eyes",
+            "."
+          ],
+          "answer": "I've got two eyes ."
+        },
+        {
+          "words": [
+            "I've",
+            "got",
+            "two",
+            "ears",
+            "."
+          ],
+          "answer": "I've got two ears ."
+        },
+        {
+          "words": [
+            "Touch",
+            "your",
+            "head",
+            "."
+          ],
+          "answer": "Touch your head ."
+        },
+        {
+          "words": [
+            "Touch",
+            "your",
+            "nose",
+            "."
+          ],
+          "answer": "Touch your nose ."
+        },
+        {
+          "words": [
+            "This",
+            "is",
+            "my",
+            "mouth",
+            "."
+          ],
+          "answer": "This is my mouth ."
+        },
+        {
+          "words": [
+            "My",
+            "foot",
+            "is",
+            "small",
+            "."
+          ],
+          "answer": "My foot is small ."
+        }
+      ]
+    },
+    {
+      "id": "my-clothes",
+      "emoji": "👕",
+      "title": "My Clothes",
+      "titleZh": "我的衣服",
+      "group": "阶段二",
+      "words": [
+        {
+          "en": "T-shirt",
+          "zh": "T 恤",
+          "emoji": "👕",
+          "phonetic": "/ˈtiː ʃɜːt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "T",
+              "pron": "/tiː/"
+            },
+            {
+              "text": "shirt",
+              "pron": "/ʃɜːt/"
+            }
+          ],
+          "tips": "T-shirt 由 T 和 shirt 两个词组成，中间的短横线要写上",
+          "example": {
+            "en": "I'm wearing a T-shirt.",
+            "zh": "我穿着一件 T 恤。"
+          }
+        },
+        {
+          "en": "hat",
+          "zh": "帽子",
+          "emoji": "🎩",
+          "phonetic": "/hæt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "hat",
+              "pron": "/hæt/"
+            }
+          ],
+          "tips": "hat 和 cat、mat 押韵，a 发短音 /æ/",
+          "example": {
+            "en": "I'm wearing a hat.",
+            "zh": "我戴着一顶帽子。"
+          }
+        },
+        {
+          "en": "shoes",
+          "zh": "鞋子",
+          "emoji": "👟",
+          "phonetic": "/ʃuːz/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "shoes",
+              "pron": "/ʃuːz/"
+            }
+          ],
+          "tips": "shoes 是 shoe 的复数；sh 发 /ʃ/，鞋子一般成双出现所以常用复数",
+          "example": {
+            "en": "Put on your shoes.",
+            "zh": "穿上你的鞋子。"
+          }
+        },
+        {
+          "en": "socks",
+          "zh": "袜子",
+          "emoji": "🧦",
+          "phonetic": "/sɒks/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "socks",
+              "pron": "/sɒks/"
+            }
+          ],
+          "tips": "socks 结尾的 ocks 读 /ɒks/，和 box 押韵",
+          "example": {
+            "en": "Put on your socks.",
+            "zh": "穿上你的袜子。"
+          }
+        },
+        {
+          "en": "dress",
+          "zh": "连衣裙",
+          "emoji": "👗",
+          "phonetic": "/dres/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "dress",
+              "pron": "/dres/"
+            }
+          ],
+          "tips": "dress 里的 e 发短音 /e/，和 red 一样",
+          "example": {
+            "en": "My dress is pink.",
+            "zh": "我的连衣裙是粉红色的。"
+          }
+        },
+        {
+          "en": "trousers",
+          "zh": "裤子",
+          "emoji": "👖",
+          "phonetic": "/ˈtraʊzəz/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "trou",
+              "pron": "/traʊ/"
+            },
+            {
+              "text": "sers",
+              "pron": "/zəz/"
+            }
+          ],
+          "tips": "trousers 英式英语里总是复数形式，不能说 a trousers",
+          "example": {
+            "en": "Where are my trousers?",
+            "zh": "我的裤子在哪里？"
+          }
+        },
+        {
+          "en": "jacket",
+          "zh": "夹克",
+          "emoji": "🧥",
+          "phonetic": "/ˈdʒækɪt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ja",
+              "pron": "/dʒæ/"
+            },
+            {
+              "text": "cket",
+              "pron": "/kɪt/"
+            }
+          ],
+          "tips": "ja-cket 两个音节；ja 的 j 发 /dʒ/，和 jump 一样",
+          "example": {
+            "en": "My jacket is blue.",
+            "zh": "我的夹克是蓝色的。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "I'm wearing...",
+          "zh": "我穿着……wear 用进行时表示此刻穿着/戴着",
+          "examples": [
+            {
+              "text": "I'm wearing a hat.",
+              "tr": "我戴着一顶帽子。"
+            },
+            {
+              "text": "I'm wearing a T-shirt.",
+              "tr": "我穿着一件 T 恤。"
+            },
+            {
+              "text": "I'm wearing shoes.",
+              "tr": "我穿着鞋子。"
+            },
+            {
+              "text": "I'm wearing a jacket.",
+              "tr": "我穿着一件夹克。"
+            }
+          ]
+        },
+        {
+          "rule": "Put on your...",
+          "zh": "穿上你的……put on 强调「穿」这个动作，后面跟 your + 衣物",
+          "examples": [
+            {
+              "text": "Put on your hat.",
+              "tr": "戴上你的帽子。"
+            },
+            {
+              "text": "Put on your shoes.",
+              "tr": "穿上你的鞋子。"
+            },
+            {
+              "text": "Put on your socks.",
+              "tr": "穿上你的袜子。"
+            },
+            {
+              "text": "Put on your jacket.",
+              "tr": "穿上你的夹克。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "I'm",
+            "wearing",
+            "a",
+            "hat",
+            "."
+          ],
+          "answer": "I'm wearing a hat ."
+        },
+        {
+          "words": [
+            "I'm",
+            "wearing",
+            "a",
+            "T-shirt",
+            "."
+          ],
+          "answer": "I'm wearing a T-shirt ."
+        },
+        {
+          "words": [
+            "Put",
+            "on",
+            "your",
+            "shoes",
+            "."
+          ],
+          "answer": "Put on your shoes ."
+        },
+        {
+          "words": [
+            "Put",
+            "on",
+            "your",
+            "socks",
+            "."
+          ],
+          "answer": "Put on your socks ."
+        },
+        {
+          "words": [
+            "My",
+            "dress",
+            "is",
+            "pink",
+            "."
+          ],
+          "answer": "My dress is pink ."
+        },
+        {
+          "words": [
+            "My",
+            "jacket",
+            "is",
+            "blue",
+            "."
+          ],
+          "answer": "My jacket is blue ."
+        }
+      ]
+    },
+    {
+      "id": "food-and-drink",
+      "emoji": "🍎",
+      "title": "Food and Drink",
+      "titleZh": "食物和饮料",
+      "group": "阶段二",
+      "words": [
+        {
+          "en": "apple",
+          "zh": "苹果",
+          "emoji": "🍎",
+          "phonetic": "/ˈæpl/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ap",
+              "pron": "/æp/"
+            },
+            {
+              "text": "ple",
+              "pron": "/pl/"
+            }
+          ],
+          "tips": "ap-ple 两个音节；词尾的 le 自成音节，读 /pl/",
+          "example": {
+            "en": "I like apples.",
+            "zh": "我喜欢苹果。"
+          }
+        },
+        {
+          "en": "banana",
+          "zh": "香蕉",
+          "emoji": "🍌",
+          "phonetic": "/bəˈnɑːnə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ba",
+              "pron": "/bə/"
+            },
+            {
+              "text": "na",
+              "pron": "/nɑː/"
+            },
+            {
+              "text": "na",
+              "pron": "/nə/"
+            }
+          ],
+          "tips": "ba-na-na 三个音节，重音在中间那个 na",
+          "example": {
+            "en": "I like bananas.",
+            "zh": "我喜欢香蕉。"
+          }
+        },
+        {
+          "en": "cake",
+          "zh": "蛋糕",
+          "emoji": "🎂",
+          "phonetic": "/keɪk/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "cake",
+              "pron": "/keɪk/"
+            }
+          ],
+          "tips": "cake 是 Magic E 的词，末尾 e 不发音，a 发字母本音 /eɪ/",
+          "example": {
+            "en": "I like cake.",
+            "zh": "我喜欢蛋糕。"
+          }
+        },
+        {
+          "en": "bread",
+          "zh": "面包",
+          "emoji": "🍞",
+          "phonetic": "/bred/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "bread",
+              "pron": "/bred/"
+            }
+          ],
+          "tips": "bread 里的 ea 在这里发短音 /e/，和 red 一样，不要读成 /iː/",
+          "example": {
+            "en": "I like bread.",
+            "zh": "我喜欢面包。"
+          }
+        },
+        {
+          "en": "egg",
+          "zh": "鸡蛋",
+          "emoji": "🥚",
+          "phonetic": "/eɡ/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "egg",
+              "pron": "/eɡ/"
+            }
+          ],
+          "tips": "egg 里的 e 发短音 /e/，和 red、ten 一样",
+          "example": {
+            "en": "I've got an egg.",
+            "zh": "我有一个鸡蛋。"
+          }
+        },
+        {
+          "en": "milk",
+          "zh": "牛奶",
+          "emoji": "🥛",
+          "phonetic": "/mɪlk/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "milk",
+              "pron": "/mɪlk/"
+            }
+          ],
+          "tips": "milk 里的 i 发短音 /ɪ/，结尾的 lk 要连着读",
+          "example": {
+            "en": "I like milk.",
+            "zh": "我喜欢牛奶。"
+          }
+        },
+        {
+          "en": "water",
+          "zh": "水",
+          "emoji": "💧",
+          "phonetic": "/ˈwɔːtə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "wa",
+              "pron": "/wɔː/"
+            },
+            {
+              "text": "ter",
+              "pron": "/tə/"
+            }
+          ],
+          "tips": "wa-ter 两个音节；英式读 /ˈwɔːtə/，美式会带卷舌音",
+          "example": {
+            "en": "I drink water.",
+            "zh": "我喝水。"
+          }
+        },
+        {
+          "en": "juice",
+          "zh": "果汁",
+          "emoji": "🧃",
+          "phonetic": "/dʒuːs/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "juice",
+              "pron": "/dʒuːs/"
+            }
+          ],
+          "tips": "juice 里的 ui 只发一个长音 /uː/，j 发 /dʒ/",
+          "example": {
+            "en": "I like juice.",
+            "zh": "我喜欢果汁。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "I like...",
+          "zh": "我喜欢……表达自己的喜好；喜欢一类东西时名词用复数，如 I like apples",
+          "examples": [
+            {
+              "text": "I like apples.",
+              "tr": "我喜欢苹果。"
+            },
+            {
+              "text": "I like cake.",
+              "tr": "我喜欢蛋糕。"
+            },
+            {
+              "text": "I like milk.",
+              "tr": "我喜欢牛奶。"
+            },
+            {
+              "text": "I like bananas.",
+              "tr": "我喜欢香蕉。"
+            }
+          ]
+        },
+        {
+          "rule": "Do you like...?",
+          "zh": "你喜欢……吗？用 Do 开头提问；回答 Yes, I do. / No, I don't.",
+          "examples": [
+            {
+              "text": "Do you like apples?",
+              "tr": "你喜欢苹果吗？"
+            },
+            {
+              "text": "Yes, I do.",
+              "tr": "是的，我喜欢。"
+            },
+            {
+              "text": "No, I don't.",
+              "tr": "不，我不喜欢。"
+            },
+            {
+              "text": "Do you like juice?",
+              "tr": "你喜欢果汁吗？"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "I",
+            "like",
+            "apples",
+            "."
+          ],
+          "answer": "I like apples ."
+        },
+        {
+          "words": [
+            "I",
+            "like",
+            "cake",
+            "."
+          ],
+          "answer": "I like cake ."
+        },
+        {
+          "words": [
+            "Do",
+            "you",
+            "like",
+            "milk",
+            "?"
+          ],
+          "answer": "Do you like milk ?"
+        },
+        {
+          "words": [
+            "Yes",
+            ",",
+            "I",
+            "do",
+            "."
+          ],
+          "answer": "Yes , I do ."
+        },
+        {
+          "words": [
+            "No",
+            ",",
+            "I",
+            "don't",
+            "."
+          ],
+          "answer": "No , I don't ."
+        },
+        {
+          "words": [
+            "I've",
+            "got",
+            "an",
+            "egg",
+            "."
+          ],
+          "answer": "I've got an egg ."
+        }
+      ]
+    },
+    {
+      "id": "colours-and-numbers",
+      "emoji": "🎨",
+      "title": "Colours and Numbers",
+      "titleZh": "颜色和数字",
+      "group": "阶段三",
+      "words": [
+        {
+          "en": "red",
+          "zh": "红色的",
+          "emoji": "🔴",
+          "phonetic": "/red/",
+          "pos": "adj.",
+          "syllables": [
+            {
+              "text": "red",
+              "pron": "/red/"
+            }
+          ],
+          "tips": "red 里的 e 发短音 /e/，和 bed、ten 一样",
+          "example": {
+            "en": "The ball is red.",
+            "zh": "这个球是红色的。"
+          }
+        },
+        {
+          "en": "blue",
+          "zh": "蓝色的",
+          "emoji": "🔵",
+          "phonetic": "/bluː/",
+          "pos": "adj.",
+          "syllables": [
+            {
+              "text": "blue",
+              "pron": "/bluː/"
+            }
+          ],
+          "tips": "blue 里的 ue 不单独发音，整个词读 /bluː/，和 two 押韵",
+          "example": {
+            "en": "The sky is blue.",
+            "zh": "天空是蓝色的。"
+          }
+        },
+        {
+          "en": "yellow",
+          "zh": "黄色的",
+          "emoji": "💛",
+          "phonetic": "/ˈjeləʊ/",
+          "pos": "adj.",
+          "syllables": [
+            {
+              "text": "yel",
+              "pron": "/jel/"
+            },
+            {
+              "text": "low",
+              "pron": "/ləʊ/"
+            }
+          ],
+          "tips": "yel-low 两个音节，重音在第一个音节",
+          "example": {
+            "en": "I like the yellow car.",
+            "zh": "我喜欢那辆黄色的车。"
+          }
+        },
+        {
+          "en": "green",
+          "zh": "绿色的",
+          "emoji": "🟢",
+          "phonetic": "/ɡriːn/",
+          "pos": "adj.",
+          "syllables": [
+            {
+              "text": "green",
+              "pron": "/ɡriːn/"
+            }
+          ],
+          "tips": "green 里的 ee 发长音 /iː/，和 three 押韵",
+          "example": {
+            "en": "The door is green.",
+            "zh": "这扇门是绿色的。"
+          }
+        },
+        {
+          "en": "orange",
+          "zh": "橙色的；橙子",
+          "emoji": "🟠",
+          "phonetic": "/ˈɒrɪndʒ/",
+          "pos": "adj.",
+          "syllables": [
+            {
+              "text": "or",
+              "pron": "/ɒr/"
+            },
+            {
+              "text": "ange",
+              "pron": "/ɪndʒ/"
+            }
+          ],
+          "tips": "or-ange 两个音节；orange 既可以是颜色也可以是水果",
+          "example": {
+            "en": "I've got an orange.",
+            "zh": "我有一个橙子。"
+          }
+        },
+        {
+          "en": "pink",
+          "zh": "粉红色的",
+          "emoji": "🩷",
+          "phonetic": "/pɪŋk/",
+          "pos": "adj.",
+          "syllables": [
+            {
+              "text": "pink",
+              "pron": "/pɪŋk/"
+            }
+          ],
+          "tips": "pink 结尾的 nk 要连着读，和 thank 的尾音一样",
+          "example": {
+            "en": "My doll is pink.",
+            "zh": "我的洋娃娃是粉红色的。"
+          }
+        },
+        {
+          "en": "one",
+          "zh": "一",
+          "emoji": "1️⃣",
+          "phonetic": "/wʌn/",
+          "pos": "num.",
+          "syllables": [
+            {
+              "text": "one",
+              "pron": "/wʌn/"
+            }
+          ],
+          "tips": "one 的 o 不发 /ɒ/，整个词读 /wʌn/，要特别记",
+          "example": {
+            "en": "I've got one ball.",
+            "zh": "我有一个球。"
+          }
+        },
+        {
+          "en": "two",
+          "zh": "二",
+          "emoji": "2️⃣",
+          "phonetic": "/tuː/",
+          "pos": "num.",
+          "syllables": [
+            {
+              "text": "two",
+              "pron": "/tuː/"
+            }
+          ],
+          "tips": "two 里的 w 不发音，读起来和 to 一样",
+          "example": {
+            "en": "I've got two cats.",
+            "zh": "我有两只猫。"
+          }
+        },
+        {
+          "en": "three",
+          "zh": "三",
+          "emoji": "3️⃣",
+          "phonetic": "/θriː/",
+          "pos": "num.",
+          "syllables": [
+            {
+              "text": "three",
+              "pron": "/θriː/"
+            }
+          ],
+          "tips": "three 开头的 th 要咬舌尖发清音 /θ/",
+          "example": {
+            "en": "I've got three balls.",
+            "zh": "我有三个球。"
+          }
+        },
+        {
+          "en": "four",
+          "zh": "四",
+          "emoji": "4️⃣",
+          "phonetic": "/fɔː/",
+          "pos": "num.",
+          "syllables": [
+            {
+              "text": "four",
+              "pron": "/fɔː/"
+            }
+          ],
+          "tips": "four 和 door 押韵，our 在这里发 /ɔː/",
+          "example": {
+            "en": "I've got four pens.",
+            "zh": "我有四支笔。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "What colour is it?",
+          "zh": "它是什么颜色？回答用 It's + 颜色",
+          "examples": [
+            {
+              "text": "What colour is it?",
+              "tr": "它是什么颜色？"
+            },
+            {
+              "text": "It's red.",
+              "tr": "它是红色的。"
+            },
+            {
+              "text": "It's blue.",
+              "tr": "它是蓝色的。"
+            },
+            {
+              "text": "My favourite colour is pink.",
+              "tr": "我最喜欢的颜色是粉红色。"
+            }
+          ]
+        },
+        {
+          "rule": "How many...?",
+          "zh": "有多少个？问数量用 How many，数字后面的名词要加 -s 变复数",
+          "examples": [
+            {
+              "text": "How many balls?",
+              "tr": "有多少个球？"
+            },
+            {
+              "text": "Two balls.",
+              "tr": "两个球。"
+            },
+            {
+              "text": "I've got three balls.",
+              "tr": "我有三个球。"
+            },
+            {
+              "text": "I've got two cats.",
+              "tr": "我有两只猫。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "What",
+            "colour",
+            "is",
+            "it",
+            "?"
+          ],
+          "answer": "What colour is it ?"
+        },
+        {
+          "words": [
+            "It's",
+            "red",
+            "."
+          ],
+          "answer": "It's red ."
+        },
+        {
+          "words": [
+            "The",
+            "ball",
+            "is",
+            "blue",
+            "."
+          ],
+          "answer": "The ball is blue ."
+        },
+        {
+          "words": [
+            "I've",
+            "got",
+            "two",
+            "cats",
+            "."
+          ],
+          "answer": "I've got two cats ."
+        },
+        {
+          "words": [
+            "I've",
+            "got",
+            "three",
+            "balls",
+            "."
+          ],
+          "answer": "I've got three balls ."
+        },
+        {
+          "words": [
+            "My",
+            "favourite",
+            "colour",
+            "is",
+            "pink",
+            "."
+          ],
+          "answer": "My favourite colour is pink ."
+        }
+      ]
+    },
+    {
+      "id": "wild-animals",
+      "emoji": "🦁",
+      "title": "Wild Animals",
+      "titleZh": "野生动物",
+      "group": "阶段三",
+      "words": [
+        {
+          "en": "lion",
+          "zh": "狮子",
+          "emoji": "🦁",
+          "phonetic": "/ˈlaɪən/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "li",
+              "pron": "/laɪ/"
+            },
+            {
+              "text": "on",
+              "pron": "/ən/"
+            }
+          ],
+          "tips": "li-on 两个音节；li 里的 i 发字母本音 /aɪ/",
+          "example": {
+            "en": "The lion is big.",
+            "zh": "狮子很大。"
+          }
+        },
+        {
+          "en": "tiger",
+          "zh": "老虎",
+          "emoji": "🐯",
+          "phonetic": "/ˈtaɪɡə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ti",
+              "pron": "/taɪ/"
+            },
+            {
+              "text": "ger",
+              "pron": "/ɡə/"
+            }
+          ],
+          "tips": "ti-ger 两个音节；和 lion 一样，ti 里的 i 发 /aɪ/",
+          "example": {
+            "en": "The tiger is orange.",
+            "zh": "老虎是橙色的。"
+          }
+        },
+        {
+          "en": "elephant",
+          "zh": "大象",
+          "emoji": "🐘",
+          "phonetic": "/ˈelɪfənt/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "e",
+              "pron": "/el/"
+            },
+            {
+              "text": "le",
+              "pron": "/ɪ/"
+            },
+            {
+              "text": "phant",
+              "pron": "/fənt/"
+            }
+          ],
+          "tips": "e-le-phant 三个音节；ph 连起来发 /f/",
+          "example": {
+            "en": "The elephant is big.",
+            "zh": "大象很大。"
+          }
+        },
+        {
+          "en": "monkey",
+          "zh": "猴子",
+          "emoji": "🐵",
+          "phonetic": "/ˈmʌŋki/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "mon",
+              "pron": "/mʌŋ/"
+            },
+            {
+              "text": "key",
+              "pron": "/ki/"
+            }
+          ],
+          "tips": "mon-key 两个音节；复数直接加 -s 变 monkeys",
+          "example": {
+            "en": "I like monkeys.",
+            "zh": "我喜欢猴子。"
+          }
+        },
+        {
+          "en": "zebra",
+          "zh": "斑马",
+          "emoji": "🦓",
+          "phonetic": "/ˈzebrə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ze",
+              "pron": "/zeb/"
+            },
+            {
+              "text": "bra",
+              "pron": "/rə/"
+            }
+          ],
+          "tips": "ze-bra 两个音节；z 发 /z/ 不是 /s/",
+          "example": {
+            "en": "The zebra is black and white.",
+            "zh": "斑马是黑白相间的。"
+          }
+        },
+        {
+          "en": "giraffe",
+          "zh": "长颈鹿",
+          "emoji": "🦒",
+          "phonetic": "/dʒəˈrɑːf/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "gi",
+              "pron": "/dʒə/"
+            },
+            {
+              "text": "raffe",
+              "pron": "/rɑːf/"
+            }
+          ],
+          "tips": "gi-raffe 两个音节；重音在第二个音节 raffe",
+          "example": {
+            "en": "The giraffe is tall.",
+            "zh": "长颈鹿很高。"
+          }
+        },
+        {
+          "en": "snake",
+          "zh": "蛇",
+          "emoji": "🐍",
+          "phonetic": "/sneɪk/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "snake",
+              "pron": "/sneɪk/"
+            }
+          ],
+          "tips": "snake 是 Magic E 的词，末尾 e 不发音，a 发字母本音 /eɪ/",
+          "example": {
+            "en": "The snake is long.",
+            "zh": "蛇很长。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "This is a...",
+          "zh": "这是一只……介绍动物；a 用在辅音音素前，an 用在元音音素前",
+          "examples": [
+            {
+              "text": "This is a lion.",
+              "tr": "这是一只狮子。"
+            },
+            {
+              "text": "This is a tiger.",
+              "tr": "这是一只老虎。"
+            },
+            {
+              "text": "This is an elephant.",
+              "tr": "这是一头大象。"
+            },
+            {
+              "text": "This is a monkey.",
+              "tr": "这是一只猴子。"
+            }
+          ]
+        },
+        {
+          "rule": "It's got...",
+          "zh": "它有……描述动物身上的特征，It's got = It has got",
+          "examples": [
+            {
+              "text": "It's got a long nose.",
+              "tr": "它有长长的鼻子。"
+            },
+            {
+              "text": "It's got big eyes.",
+              "tr": "它有大大的眼睛。"
+            },
+            {
+              "text": "It's got four legs.",
+              "tr": "它有四条腿。"
+            },
+            {
+              "text": "It's got a long tail.",
+              "tr": "它有长长的尾巴。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "This",
+            "is",
+            "a",
+            "lion",
+            "."
+          ],
+          "answer": "This is a lion ."
+        },
+        {
+          "words": [
+            "This",
+            "is",
+            "a",
+            "tiger",
+            "."
+          ],
+          "answer": "This is a tiger ."
+        },
+        {
+          "words": [
+            "I",
+            "like",
+            "monkeys",
+            "."
+          ],
+          "answer": "I like monkeys ."
+        },
+        {
+          "words": [
+            "This",
+            "is",
+            "an",
+            "elephant",
+            "."
+          ],
+          "answer": "This is an elephant ."
+        },
+        {
+          "words": [
+            "The",
+            "snake",
+            "is",
+            "long",
+            "."
+          ],
+          "answer": "The snake is long ."
+        },
+        {
+          "words": [
+            "The",
+            "zebra",
+            "is",
+            "big",
+            "."
+          ],
+          "answer": "The zebra is big ."
+        }
+      ]
+    },
+    {
+      "id": "our-house",
+      "emoji": "🏠",
+      "title": "Our House",
+      "titleZh": "我们的家",
+      "group": "阶段三",
+      "words": [
+        {
+          "en": "house",
+          "zh": "房子",
+          "emoji": "🏠",
+          "phonetic": "/haʊs/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "house",
+              "pron": "/haʊs/"
+            }
+          ],
+          "tips": "house 里的 ou 发 /aʊ/，和 mouth 的前半部分一样",
+          "example": {
+            "en": "This is my house.",
+            "zh": "这是我的房子。"
+          }
+        },
+        {
+          "en": "kitchen",
+          "zh": "厨房",
+          "emoji": "🍳",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "kit",
+              "pron": "/kɪtʃ/"
+            },
+            {
+              "text": "chen",
+              "pron": "/ɪn/"
+            }
+          ],
+          "tips": "kit-chen 两个音节；tch 连起来发 /tʃ/，多了一个 t 不发音",
+          "example": {
+            "en": "Mummy is in the kitchen.",
+            "zh": "妈妈在厨房里。"
+          }
+        },
+        {
+          "en": "bedroom",
+          "zh": "卧室",
+          "emoji": "🛏️",
+          "phonetic": "/ˈbedruːm/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "bed",
+              "pron": "/bed/"
+            },
+            {
+              "text": "room",
+              "pron": "/ruːm/"
+            }
+          ],
+          "tips": "bed-room 两个词合成；oo 发长音 /uː/",
+          "example": {
+            "en": "This is my bedroom.",
+            "zh": "这是我的卧室。"
+          }
+        },
+        {
+          "en": "bathroom",
+          "zh": "浴室",
+          "emoji": "🛁",
+          "phonetic": "/ˈbɑːθruːm/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "bath",
+              "pron": "/bɑːθ/"
+            },
+            {
+              "text": "room",
+              "pron": "/ruːm/"
+            }
+          ],
+          "tips": "bath-room 两个词合成；th 要咬舌尖发 /θ/",
+          "example": {
+            "en": "The bathroom is small.",
+            "zh": "浴室很小。"
+          }
+        },
+        {
+          "en": "garden",
+          "zh": "花园",
+          "emoji": "🌻",
+          "phonetic": "/ˈɡɑːdn/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "gar",
+              "pron": "/ɡɑː/"
+            },
+            {
+              "text": "den",
+              "pron": "/dn/"
+            }
+          ],
+          "tips": "gar-den 两个音节；词尾的 en 读得很轻，几乎是 /dn/",
+          "example": {
+            "en": "The cat is in the garden.",
+            "zh": "猫在花园里。"
+          }
+        },
+        {
+          "en": "table",
+          "zh": "桌子",
+          "emoji": "🍽️",
+          "phonetic": "/ˈteɪbl/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "ta",
+              "pron": "/teɪ/"
+            },
+            {
+              "text": "ble",
+              "pron": "/bl/"
+            }
+          ],
+          "tips": "ta-ble 两个音节；词尾的 le 自成音节，读 /bl/",
+          "example": {
+            "en": "The cake is on the table.",
+            "zh": "蛋糕在桌子上。"
+          }
+        },
+        {
+          "en": "bed",
+          "zh": "床",
+          "emoji": "🛌",
+          "phonetic": "/bed/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "bed",
+              "pron": "/bed/"
+            }
+          ],
+          "tips": "bed 里的 e 发短音 /e/，和 red、ten 一样",
+          "example": {
+            "en": "The bed is big.",
+            "zh": "这张床很大。"
+          }
+        },
+        {
+          "en": "sofa",
+          "zh": "沙发",
+          "emoji": "🛋️",
+          "phonetic": "/ˈsəʊfə/",
+          "pos": "n.",
+          "syllables": [
+            {
+              "text": "so",
+              "pron": "/səʊ/"
+            },
+            {
+              "text": "fa",
+              "pron": "/fə/"
+            }
+          ],
+          "tips": "so-fa 两个音节；so 里的 o 发长音 /əʊ/",
+          "example": {
+            "en": "The dog is on the sofa.",
+            "zh": "狗在沙发上。"
+          }
+        }
+      ],
+      "grammar": [
+        {
+          "rule": "Where's...?",
+          "zh": "……在哪里？Where's = Where is，回答用 She's / He's / It's + in + 房间",
+          "examples": [
+            {
+              "text": "Where's mummy?",
+              "tr": "妈妈在哪里？"
+            },
+            {
+              "text": "She's in the kitchen.",
+              "tr": "她在厨房里。"
+            },
+            {
+              "text": "Where's the cat?",
+              "tr": "猫在哪里？"
+            },
+            {
+              "text": "It's in the garden.",
+              "tr": "它在花园里。"
+            }
+          ]
+        },
+        {
+          "rule": "Is there a...?",
+          "zh": "有……吗？询问某个地方有没有某样东西；回答 Yes, there is. / No, there isn't.",
+          "examples": [
+            {
+              "text": "Is there a table?",
+              "tr": "有一张桌子吗？"
+            },
+            {
+              "text": "Yes, there is.",
+              "tr": "是的，有。"
+            },
+            {
+              "text": "Is there a sofa?",
+              "tr": "有一张沙发吗？"
+            },
+            {
+              "text": "No, there isn't.",
+              "tr": "不，没有。"
+            }
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "words": [
+            "This",
+            "is",
+            "my",
+            "house",
+            "."
+          ],
+          "answer": "This is my house ."
+        },
+        {
+          "words": [
+            "Mummy",
+            "is",
+            "in",
+            "the",
+            "kitchen",
+            "."
+          ],
+          "answer": "Mummy is in the kitchen ."
+        },
+        {
+          "words": [
+            "The",
+            "cat",
+            "is",
+            "in",
+            "the",
+            "garden",
+            "."
+          ],
+          "answer": "The cat is in the garden ."
+        },
+        {
+          "words": [
+            "Is",
+            "there",
+            "a",
+            "table",
+            "?"
+          ],
+          "answer": "Is there a table ?"
+        },
+        {
+          "words": [
+            "Yes",
+            ",",
+            "there",
+            "is",
+            "."
+          ],
+          "answer": "Yes , there is ."
+        },
+        {
+          "words": [
+            "This",
+            "is",
+            "my",
+            "bedroom",
+            "."
+          ],
+          "answer": "This is my bedroom ."
+        }
+      ]
+    }
+  ]
+}
